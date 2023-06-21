@@ -1,6 +1,7 @@
 Olá, meu nome é Rafael Pascoal 👋
 
 
-- 🌱 Estudando: JavaScript;
+- 🌱 Estudando: C#;
 - 😄 Pronomes: Ele, dele;
+- 
 
